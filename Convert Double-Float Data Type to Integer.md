@@ -15,3 +15,5 @@ _Let’s say that the double variable x holds the value 3.6987 and needs to be c
    ```Java
    int IntValue = (int) DoubleValue;
    ```
+
+kindly checkout the "demo.java" file.
